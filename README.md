@@ -4,7 +4,7 @@ Flask + Granian application for the Fly.io cloud deployment
 
 # Components
 - [Flask](https://github.com/pallets/flask): The Python micro framework for building web applications.
-- [Granian](https://github.com/emmett-framework/granian): A Rust HTTP server for Python applications
+- [Granian](https://github.com/emmett-framework/granian): A Rust HTTP server for Python applications.
 - [Fly.io](https://fly.io): Fly is a platform for running full stack apps and databases.
 
 # Deployment
