@@ -1,4 +1,4 @@
-# fly.toml file generated for ibx-www-zzz on 2023-01-20T00:59:09+06:00
+# fly.toml file generated for ibx-flask-granian-app on 2023-01-20T00:59:09+06:00
 
 app = "ibx-flask-granian-app"
 kill_signal = "SIGINT"
