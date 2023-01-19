@@ -8,6 +8,7 @@ Flask + Granian application for the Fly.io cloud deployment
 - [Fly.io](https://fly.io): Fly is a platform for running full stack apps and databases.
 
 # Deployment
+0. [Fly.io](https://fly.io) - create account
 1. mkdir ibx-flask-granian-app
 2. cd ibx-flask-granian-app
 3. python -m venv venv
