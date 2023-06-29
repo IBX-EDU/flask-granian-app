@@ -14,7 +14,7 @@ Flask + Granian application for the Fly.io cloud deployment
 3. python -m venv venv
 4. .\venv\scripts\activate
 5. pip install flask, granian
-6. pip freeze > requirement.txt
+6. pip freeze > requirements.txt
 7. create app.py and templates
 8. some code
 9. configure Procfile
