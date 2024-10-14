@@ -1,4 +1,4 @@
-anyio==4.6.0
+anyio==4.6.2.post1
 blinker==1.8.2
 click==8.1.7
 colorama==0.4.6
